@@ -1,5 +1,11 @@
 ## Hi there 👋 I'm Yusuf!
-
+<div align="center">
+	<br>
+	<a href="https://github.com/GeekWithACamera">
+		<img src="about-me.svg" width="800" height="auto" alt="About Me">
+	</a>
+	<br>
+</div> 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
