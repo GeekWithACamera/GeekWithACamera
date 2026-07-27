@@ -1,11 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%20%20YUSUF%20ALI%20%&desc=Applied%20AI%20Developer%20%7c%20CSPO®&descSize=21&descAlign=55&descAlignY=54&textBg=false&fontAlign=50&fontAlignY=41&fontColor=000000)
 ## Hi there 👋 I'm Yusuf!
-<div align="center">
+<!-- <div align="center">
 	<br>
 	<a href="https://github.com/GeekWithACamera">
 		<img src="about-me.svg" width="800" height="auto" alt="About Me">
 	</a>
 	<br>
-</div> 
+</div>  -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
